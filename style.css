@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    display: grid;
+}
+
+
+h1{
+    color: red;
+    font-size: 3em;
+}
+
+body a{
+    font-size: 3em;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+    color: red;
+    text-decoration: none;
+}
+
+img {
+    display: none;
+}
